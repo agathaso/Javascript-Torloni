@@ -4,7 +4,7 @@
 
 let Impar = prompt("Digite seu número de usuário: ")
 
-if (Impar % 2 ==0) {
+if (Impar % 2 ==s0) {
 console.log ("O número é par")
 
 }
